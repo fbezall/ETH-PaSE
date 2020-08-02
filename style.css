@@ -1,0 +1,12 @@
+body {
+    background-color: azure;
+}
+
+nav {
+    text-align: center;
+    margin-top: 25px;
+}
+
+a {
+    padding-right: 10px;
+}
